@@ -1,3 +1,3 @@
 # New Project
 
-This project(repo) is created for github.
+This project(repo) is created from local system.
